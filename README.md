@@ -1,5 +1,4 @@
 # Data Analyst - [Ashraf Ahmad Khan]
-![MYimage](https://github.com/ashrafkhan778/ashrafkhan778/blob/main/Black%20Simple%20Corporate%20Job%20Vacancy%20LinkedIn%20Single%20Image%20Ad.png)
 Welcome to my GitHub profile! I’m a passionate and detail-oriented Data Analyst with a strong foundation in data analysis, statistical methods, and data visualization. I am eager to contribute my skills and knowledge to real-world projects and continuously grow in the field of data analysis.
 # 📊 Skills
 .Data Analysis: SQL, Python (Pandas, NumPy), Excel
