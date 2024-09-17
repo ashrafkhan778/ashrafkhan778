@@ -20,27 +20,39 @@ Description: Analyzed hospital admissions data to identify patterns and trends. 
 
 Key Technologies:  Power BI , Ms Excel, MYSQL .
 # 2. Pizza-Sales-Analysis-Dashboard
+https://github.com/ashrafkhan778/Pizza-Sales-Analysis
+
 Description: Developed an interactive dashboard to track and visualize sales metrics. Enabled better decision-making through insightful data visualizations.
 
 Key Technologies: Power BI, Excel, MySQL .
 # 3. Walmart-Sales-analysis-SQL
+https://github.com/ashrafkhan778/Walmart-Sales-analysis-SQL
+
 Description : When performing a Walmart sales analysis using SQL, you can focus on various aspects of the sales data to derive insights and support decision-making. 
 
 Key Technologies: MySQL .
 # 4. finance-dashboard
+https://github.com/ashrafkhan778/finance-dashboard
+
 Description : Creating a finance dashboard involves aggregating and visualizing key financial metrics and KPIs to support decision-making. 
 
 Key Technologies: Power BI.
 # 5. Electric-vehicle-analysis
+https://github.com/ashrafkhan778/Electric-vehicle-analysis
+
 Description : The Electric Vehicle Analysis Dashboard, built with Power BI, provides a comprehensive view of the EV market. It includes KPIs such as the total number of EVs, average electric range, and proportions of BEVs and PHEVs. The dashboard features various visualizations, including Line/Area charts, Maps, Bar charts, Pie/Donut charts, and Tree maps, to analyze growth patterns, geographical distribution, and market dominance. Dynamic filters allow for detailed insights into specific brands like Tesla and locations like Aberdeen. This tool aims to support strategic decision-making and promote the adoption of electric vehicles by offering actionable insights.
 
 Key Technologies: Power BI.
 # 6.HR-Analytics-Dashboard
+https://github.com/ashrafkhan778/-HR-Analytics-Dashboard
+
 Description :An HR analytics dashboard is a powerful tool designed to help human resources professionals monitor, analyze, and improve various HR metrics and processes. It provides a visual representation of key HR data, enabling data-driven decision-making and strategic planning. Below is a detailed description of an HR analytics dashboard:
 
 Key Technologies: Power BI.
 
 # 7. Coffee-Sales-Analysis
+https://github.com/ashrafkhan778/Coffee-Sales-Analysis-
+
 Description : This project involves analyzing coffee sales data to gain insights into various aspects of the business. The analysis covers sales trends, product performance, store performance, and customer purchasing behaviors. The SQL queries are designed to provide detailed reports and summaries that can help in making informed business decisions, improving sales strategies, and optimizing inventory and operations.
 
 Key Technologies: MYSQL
