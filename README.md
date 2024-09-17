@@ -14,6 +14,8 @@ Database Management: MySQL, PostgreSQL
 # 🚀 Projects
 
 # 1.Health-Care-Analytics-Dashboard
+https://github.com/ashrafkhan778/Health-Care-Analytics-Dashboard
+
 Description: Analyzed hospital admissions data to identify patterns and trends. Created visualizations to present findings to stakeholders.
 
 Key Technologies:  Power BI , Ms Excel, MYSQL .
