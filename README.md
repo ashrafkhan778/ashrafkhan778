@@ -1,5 +1,8 @@
 # Data Analyst - [Ashraf Ahmad Khan]
 Welcome to my GitHub profile! I’m a passionate and detail-oriented Data Analyst with a strong foundation in data analysis, statistical methods, and data visualization. I am eager to contribute my skills and knowledge to real-world projects and continuously grow in the field of data analysis.
+
+https://github.com/ashrafkhan778/Health-Care-Analytics
+
 # 📊 Skills
 .Data Analysis: SQL, Python (Pandas, NumPy), Excel
 
