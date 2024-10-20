@@ -11,6 +11,12 @@ Welcome to my GitHub profile! I’m a passionate and detail-oriented Data Analys
 
 Database Management: MySQL, PostgreSQL
 
+
+## 🚀 Projects
+- [Project Name](https://github.com/ashrafkhan778/Health-Care-Analytics-Dashboard): A data visualization tool built with Power BI for analyzing sales trends.
+
+
+
 # 🚀 Projects
 
 # 1.Health-Care-Analytics-Dashboard(https://github.com/ashrafkhan778/Health-Care-Analytics-Dashboard)
