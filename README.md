@@ -13,15 +13,7 @@ Database Management: MySQL, PostgreSQL
 
 
 ## 🚀 Projects
-- [Project Name](https://github.com/ashrafkhan778/Health-Care-Analytics-Dashboard): A data visualization tool built with Power BI for analyzing sales trends.
-
-
-
-# 🚀 Projects
-
-# 1.Health-Care-Analytics-Dashboard(https://github.com/ashrafkhan778/Health-Care-Analytics-Dashboard)
-
-Description: Analyzed hospital admissions data to identify patterns and trends. Created visualizations to present findings to stakeholders.
+- 1 [Health-Care-Analytics](https://github.com/ashrafkhan778/Health-Care-Analytics-Dashboard): Description: Analyzed hospital admissions data to identify patterns and trends. Created visualizations to present findings to stakeholders.
 
 Key Technologies:  Power BI , Ms Excel, MYSQL .
 # 2. Pizza-Sales-Analysis-Dashboard
